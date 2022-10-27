@@ -1,6 +1,6 @@
 # RNN ve LSTM sinir ağları ile bölgesel dağıtılan enerji tahmini
 
-* 2015-2020 yılları arasında Marmara bölgesindeki 4 ilde (Bursa-Balıkesir-Çanakkale-Yalova) dağıtılan toplam enerji verisi(MWh) kullanılmıştır.
+* 2015-2020 yılları arasında Marmara bölgesindeki 4 ilde (Bursa-Balıkesir-Çanakkale-Yalova) dağıtılan toplam elektrik enerjisinin verisi (MWh) kullanılmıştır.
 * Enerji tüketimi ile sıcaklık arasındaki ilişki incelendiğinde, birinin zirvelerini gördüğü yerlerde diğerinde çukurlaşmalar görülebilmektedir. Bu durum düşük sıcaklıkta ısıtıcı kullanımıyla oluşan enerji tüketiminin artmasından kaynaklanmaktadır. Yüksek sıcaklıklarda ise sıcaklık artışıyla birlikte sogutucu kullanımından kaynaklanan tüketim artışı görülmektedir.
 * Dağıtılan enerjiyi etkileyecek değişken olarak belirtilen tarih-saatteki sıcaklık ile birlikte aşağıdaki değişkenler de modele dahil edilmiştir.
 ***sicaklik	Belirtilen tarih-saatin sıcaklık değeri
